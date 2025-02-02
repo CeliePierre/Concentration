@@ -1,5 +1,5 @@
 /*
-    NAME: Célie Pierre
+    NAME: Celie Pierre
     COS 161, Spring 2022, Prof. Andrew Amorelli
     Project 03
     File Name: Concentration.java
@@ -34,7 +34,7 @@ public class Concentration {
 		// Shuffle the deck
 		Collections.shuffle(cardDeck);
 		
-		// Fill the gameBoard Map with the Integers 0 – 35 mapped to 
+		// Fill the gameBoard Map with the Integers 0 ï¿½ 35 mapped to 
 		// the MemoryCards stored in cardDeck
 		for (int i = 0; i <= 35; i++) {
 			gameBoard.put(i, cardDeck.get(i));
@@ -90,7 +90,7 @@ public class Concentration {
 		 * the entire board.
 		 * 
 		 * This should give you an initial output of 6 rows and 6 columns of 
-		 * rectangles with 0 – 35 printed inside them. Once you think you have 
+		 * rectangles with 0 ï¿½ 35 printed inside them. Once you think you have 
 		 * this right, edit the gameBoard Map temporarily to set all MemeryCard 
 		 * isUncovered values to true. The board should now display 36 shapes of 
 		 * various colors (18 unique pairs) inside the 36 card rectangles.

@@ -1,0 +1,3 @@
+/ignore
+DrawingPanel*
+!DrawingPanel.java
