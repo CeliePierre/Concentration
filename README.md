@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-8%2B-orange)
 
 ![Concentration](cat-memory.jpeg)
-*Image credit: Microsoft's AI Image Generator*
+*Image created using Microsoft's AI Image Generator*
 
 # Concentration - Java Implementation
 
