@@ -3,10 +3,9 @@
 ![Java](https://img.shields.io/badge/Java-8%2B-orange)
 
 ![Concentration](cat-memory.jpeg)
+*Image credit: Microsoft's AI Image Generator*
 
 # Concentration - Java Implementation
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Overview
 This project is a Java-based implementation of the classic memory card game **Concentration**, developed as part of the "Algorithms in Programming" course. The game uses Java collections such as Maps and Sets to manage card placement, tracking, and gameplay mechanics.
